@@ -4,6 +4,7 @@
     {
       "domain": [
           "ai.google.dev",
+          "notebooklm.google",
           "alkalimakersuite-pa.clients6.google.com",
           "generativelanguage.googleapis.com",
           "makersuite.google.com"
