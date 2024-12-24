@@ -4,6 +4,7 @@
     {
       "domain": [
           "ai.google.dev",
+          "aistudio.google.com",
           "notebooklm.google",
           "notebooklm.google.com",
           "learning.google.com",
@@ -12,7 +13,6 @@
           "makersuite.google.com"
       ],
       "domain_suffix": [
-          "bard.google.com",
           "withgoogle.com",
           "deepmind.com",
           "deepmind.google",
