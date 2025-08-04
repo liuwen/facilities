@@ -10,10 +10,11 @@
           "notebooklm.google.com",
           "learning.google.com",
           "alkalimakersuite-pa.clients6.google.com",
-          "generativelanguage.googleapis.com",
-          "makersuite.google.com"
+          "generativelanguage.googleapis.com"
       ],
       "domain_suffix": [
+          "augmentcode.com",
+          "augment-assets.com",
           "withgoogle.com",
           "deepmind.com",
           "deepmind.google",
